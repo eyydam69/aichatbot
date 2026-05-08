@@ -1,0 +1,497 @@
+﻿NDIS SERVICE PORTAL INFORMATION SAMPLE
+======================================
+
+This sample file explains what the NDIS is, why it exists, and how NDIS services can be represented inside a service portal. It is written for a student or project documentation context, so the language is clear, practical, and focused on how the information connects to this portal.
+
+
+1. WHAT IS THE NDIS?
+--------------------
+
+NDIS means National Disability Insurance Scheme.
+
+It is an Australian support system that helps eligible people with permanent and significant disability access the services, equipment, and supports they need in everyday life.
+
+The NDIS is not just a payment system. Its main purpose is to give people with disability more choice, control, independence, and opportunity. Instead of every participant receiving exactly the same support, the NDIS uses individual plans based on a person's disability needs, goals, and daily living situation.
+
+The NDIS is managed by the National Disability Insurance Agency, also called the NDIA.
+
+
+2. WHAT IS THE NDIS FOR?
+------------------------
+
+The NDIS is designed to help participants live with more independence and participate more fully in the community.
+
+It can support people with things such as:
+
+- Daily personal care
+- Household activities
+- Therapy and allied health services
+- Transport and travel support
+- Community participation
+- Employment and education goals
+- Assistive technology and equipment
+- Support coordination
+- Home and living support
+- Skill development and independence training
+
+A simple way to understand the NDIS is this:
+
+The NDIS helps fund disability-related supports that a person needs because of their disability, especially when those supports help the person work toward their goals and live more safely, confidently, and independently.
+
+
+3. WHO IS INVOLVED IN THE NDIS?
+-------------------------------
+
+Several groups of people may be involved in the NDIS process.
+
+Participant:
+A participant is a person who has been accepted into the NDIS and has an approved NDIS plan.
+
+Family, carer, or nominee:
+These are people who may help the participant make decisions, manage services, or communicate with providers.
+
+Support coordinator:
+A support coordinator helps a participant understand the plan, connect with providers, arrange services, and solve problems when services are not working well.
+
+Service provider:
+A service provider is a person or organisation that delivers disability-related services. Examples include therapy providers, support workers, transport providers, and community access providers.
+
+Plan manager:
+A plan manager helps with the financial side of the plan, such as paying provider invoices and tracking spending.
+
+NDIA or NDIS partner:
+These are the people or organisations involved in access, planning, plan reviews, and participant support.
+
+
+4. WHAT MAKES A SUPPORT NDIS-RELATED?
+-------------------------------------
+
+NDIS supports should usually be connected to the participant's disability and goals.
+
+A support is more likely to be suitable when it:
+
+- Relates to the participant's disability
+- Helps the participant work toward their goals
+- Supports independence, safety, or participation
+- Is useful and likely to benefit the participant
+- Is value for money
+- Is not an ordinary everyday cost unrelated to disability
+- Is not better funded by another system such as health, education, or housing
+- Follows current NDIS rules
+
+For example, ordinary groceries are usually not an NDIS support because everyone needs food. However, support with meal preparation may be NDIS-related if the participant needs help preparing meals because of their disability.
+
+
+5. MAIN TYPES OF NDIS SUPPORTS
+------------------------------
+
+NDIS plans often organise supports into broad budget areas. These help explain what type of support is being funded.
+
+
+CORE SUPPORTS
+
+Core supports help with everyday life. These are often practical supports that assist a participant with daily activities and community access.
+
+Examples:
+
+- Personal care
+- Household tasks
+- Community access
+- Transport support
+- Disability-related consumables
+- Support workers for daily activities
+
+
+CAPACITY BUILDING SUPPORTS
+
+Capacity building supports help a participant develop skills and become more independent over time.
+
+Examples:
+
+- Therapy services
+- Support coordination
+- Behaviour support
+- Life skill development
+- Employment skill building
+- Social skill development
+- Training to manage daily routines
+
+
+CAPITAL SUPPORTS
+
+Capital supports are usually for larger or more specialised items.
+
+Examples:
+
+- Assistive technology
+- Mobility equipment
+- Communication devices
+- Home modifications
+- Vehicle modifications
+- Specialist disability accommodation, if approved
+
+
+6. NDIS SERVICES IN A PORTAL
+----------------------------
+
+In this project, NDIS services are the main items that participants can browse, view, and book.
+
+A service in the portal should clearly explain:
+
+- The service name
+- The service category
+- What the service provides
+- Who the service may help
+- Whether the service is active or inactive
+- Whether the participant can request or book it
+
+The services section is important because it connects participants with the support they need. If the service information is unclear, participants may not know what to choose. If it is organised well, the portal becomes easier, safer, and more helpful.
+
+
+7. IMPORTANT NDIS SERVICE CATEGORIES
+------------------------------------
+
+Below are useful service categories for an NDIS portal.
+
+
+DAILY LIVING SUPPORT
+
+Daily living support helps participants complete personal and household tasks.
+
+Examples:
+
+- Showering and dressing support
+- Grooming and hygiene support
+- Meal preparation
+- Eating support
+- Cleaning and laundry support
+- Help with daily routines
+- Support attending appointments
+
+Portal use:
+A participant can open the Daily Living category, read the available services, and request support for a regular daily activity.
+
+
+COMMUNITY PARTICIPATION
+
+Community participation helps participants take part in social, recreational, cultural, or community activities.
+
+Examples:
+
+- Attending social groups
+- Going to local events
+- Joining recreational activities
+- Shopping support
+- Building confidence in public places
+- Support with community access
+
+Portal use:
+A participant can browse community services and book support to attend an activity outside the home.
+
+
+THERAPY AND ALLIED HEALTH
+
+Therapy and allied health services help participants improve function, communication, mobility, wellbeing, and independence.
+
+Examples:
+
+- Occupational therapy
+- Speech therapy
+- Physiotherapy
+- Psychology
+- Behaviour support
+- Exercise physiology
+- Dietetics, where disability-related and approved
+
+Portal use:
+A participant can search for therapy services, read what each service does, and request an appointment or referral.
+
+
+SUPPORT COORDINATION
+
+Support coordination helps participants understand and use their NDIS plan.
+
+Examples:
+
+- Explaining plan budgets
+- Helping choose providers
+- Organising services
+- Solving provider issues
+- Preparing for plan reviews
+- Helping the participant build confidence in managing supports
+
+Portal use:
+A coordinator can view participant activity, manage service requests, and help participants connect with the right supports.
+
+
+ASSISTIVE TECHNOLOGY
+
+Assistive technology includes equipment and devices that help a participant do things more safely or independently.
+
+Examples:
+
+- Wheelchairs
+- Walking aids
+- Communication devices
+- Transfer equipment
+- Personal care equipment
+- Home safety equipment
+
+Portal use:
+A participant can request an assistive technology assessment or read information about available equipment-related supports.
+
+
+TRANSPORT AND TRAVEL SUPPORT
+
+Transport support helps participants travel when their disability makes transport difficult.
+
+Examples:
+
+- Supported transport to appointments
+- Travel training
+- Transport to community activities
+- Help learning public transport routes
+- Support getting to approved services
+
+Portal use:
+A participant can request travel support and track the request status through the booking page.
+
+
+EMPLOYMENT AND EDUCATION SUPPORT
+
+Employment and education support helps participants build skills for work, study, volunteering, or training.
+
+Examples:
+
+- Work readiness support
+- Job skill development
+- Help with workplace routines
+- Support attending training
+- Disability-related education participation support
+
+Portal use:
+A participant can browse employment-related services and request support connected to their work or study goals.
+
+
+HOME AND LIVING SUPPORT
+
+Home and living support helps participants live safely and independently at home or in supported living environments.
+
+Examples:
+
+- In-home support
+- Supported independent living
+- Household skill development
+- Home modifications, if approved
+- Specialist disability accommodation, if approved
+
+Portal use:
+A participant can request home support, while coordinators can manage active services and booking requests.
+
+
+8. SAMPLE SERVICES FOR THIS PROJECT
+-----------------------------------
+
+The following sample services could be used in the portal database or service list.
+
+Service Name: Personal Care Support
+Category: Daily Living Support
+Description: Assistance with showering, dressing, grooming, hygiene, and daily personal routines.
+Status: Active
+
+Service Name: Household Task Assistance
+Category: Daily Living Support
+Description: Support with cleaning, laundry, basic meal preparation, and keeping the home environment manageable.
+Status: Active
+
+Service Name: Community Access Support
+Category: Community Participation
+Description: Support for attending social activities, shopping, appointments, community events, or recreational programs.
+Status: Active
+
+Service Name: Occupational Therapy
+Category: Therapy and Allied Health
+Description: Assessment and therapy to improve independence, daily living skills, safety, equipment use, and home routines.
+Status: Active
+
+Service Name: Speech Therapy
+Category: Therapy and Allied Health
+Description: Support for communication, speech, language, swallowing, or social communication needs.
+Status: Active
+
+Service Name: Behaviour Support
+Category: Therapy and Allied Health
+Description: Specialist support for participants who need help understanding and managing behaviours of concern.
+Status: Active
+
+Service Name: Plan Support Coordination
+Category: Support Coordination
+Description: Help understanding the NDIS plan, finding providers, arranging services, and managing support issues.
+Status: Active
+
+Service Name: Assistive Technology Assessment
+Category: Assistive Technology
+Description: Assessment for equipment or devices that may improve independence, mobility, communication, or safety.
+Status: Active
+
+Service Name: Supported Travel
+Category: Transport and Travel Support
+Description: Assistance travelling to appointments, services, community activities, or other approved destinations.
+Status: Active
+
+Service Name: Employment Skill Building
+Category: Employment and Education Support
+Description: Support to develop workplace confidence, job readiness, communication, and daily work routines.
+Status: Active
+
+Service Name: In-Home Independence Support
+Category: Home and Living Support
+Description: Support to build independent living skills and manage safe daily routines at home.
+Status: Active
+
+
+9. HOW BOOKING WORKS IN THE PORTAL
+----------------------------------
+
+A simple service booking process may work like this:
+
+1. The participant logs in.
+2. The participant browses service categories.
+3. The participant selects a service.
+4. The participant reads the service description.
+5. The participant submits a booking request.
+6. The system saves the request as Pending.
+7. A coordinator reviews the request.
+8. The coordinator approves, cancels, or follows up.
+9. The participant checks the updated booking status.
+
+Common booking statuses:
+
+- Pending
+- Approved
+- Cancelled
+- Completed
+
+
+10. PARTICIPANT JOURNEY EXAMPLE
+-------------------------------
+
+Maria is an NDIS participant who needs help joining community activities because travelling and attending events alone is difficult for her.
+
+She logs into the portal and opens the Services page. She chooses Community Participation and reads about Community Access Support. The description explains that the service can help her attend social groups, appointments, and local events.
+
+Maria submits a booking request. The request appears in her My Bookings page as Pending.
+
+A support coordinator reviews the request from the dashboard. The coordinator approves the request and updates the booking status.
+
+Maria can now see that her booking is Approved.
+
+
+11. COORDINATOR JOURNEY EXAMPLE
+-------------------------------
+
+A support coordinator logs into the portal dashboard.
+
+The coordinator can:
+
+- View active services
+- Add new services
+- Edit service descriptions
+- Mark services active or inactive
+- Review participant booking requests
+- Approve or cancel bookings
+- Monitor recent participant activity
+- Help participants choose suitable services
+
+This makes the portal useful not only for participants, but also for coordinators who manage service delivery.
+
+
+12. WHAT THE NDIS USUALLY DOES NOT FUND
+---------------------------------------
+
+The NDIS usually does not fund things that are not related to a person's disability support needs.
+
+Examples of things the NDIS may not fund include:
+
+- Everyday living costs unrelated to disability
+- Ordinary rent or groceries
+- Supports that should be provided by the health system
+- Supports that should be provided by the education system
+- Supports that are not value for money
+- Supports that are unsafe or unlikely to help
+- Services not connected to the participant's plan or goals
+
+This is important for a portal because the system should avoid promising that every service will automatically be funded. The portal can provide service information and booking tools, but funding decisions still depend on the participant's NDIS plan and current NDIS rules.
+
+
+13. WHY SERVICES ARE IMPORTANT IN THIS PROJECT
+----------------------------------------------
+
+The services feature is one of the most important parts of an NDIS portal.
+
+Good service information helps participants:
+
+- Understand what support is available
+- Compare different services
+- Choose services that match their needs
+- Request help without confusion
+- Track what they have booked
+
+Good service management helps coordinators:
+
+- Keep service information updated
+- Manage active and inactive services
+- Respond to participant requests
+- Monitor demand for services
+- Improve service delivery
+
+In short, the services section is where the portal becomes useful. It turns general NDIS information into real actions that participants and coordinators can manage.
+
+
+14. IMPORTANT PRIVACY AND SAFETY NOTES
+--------------------------------------
+
+An NDIS portal may handle sensitive personal information, so it should be designed carefully.
+
+Important points:
+
+- Participants should have secure login accounts.
+- Coordinators should only access information they are allowed to see.
+- Booking information should be protected.
+- Personal and disability-related details should not be exposed publicly.
+- AI service recommendations should be treated as guidance only.
+- The portal should not guarantee that a service is funded unless plan data confirms it.
+- Participants should confirm their funding before using paid supports.
+
+
+15. SIMPLE SUMMARY
+------------------
+
+The NDIS helps eligible Australians with disability access supports that improve independence, safety, participation, and quality of life.
+
+In an NDIS portal, services are the practical connection between the participant and the support they need. Participants use the services page to browse, understand, and request support. Coordinators use the dashboard to manage services, review bookings, and help participants receive the right assistance.
+
+A strong NDIS services section should be clear, organised, accessible, and focused on real participant needs.
+
+
+OFFICIAL REFERENCE LINKS
+------------------------
+
+NDIS supports:
+https://www.ndis.gov.au/participants/using-your-funding/understanding-your-ndis-funding/what-are-ndis-supports
+
+Reasonable and necessary supports:
+https://www.ndis.gov.au/participants/creating-plan/understanding-plan-meeting/what-reasonable-and-necessary
+
+Core supports:
+https://www.ndis.gov.au/participants/using-your-funding/different-budget-types/what-are-core-supports
+
+Capacity building supports:
+https://www.ndis.gov.au/participants/using-your-funding/different-budget-types/what-are-capacity-building-supports
+
+Capital supports:
+https://www.ndis.gov.au/participants/using-your-funding/different-budget-types/what-are-capital-supports
+
+
+File purpose: Sample NDIS information document for the NDIS Portal project.
+Last updated: 7 May 2026
